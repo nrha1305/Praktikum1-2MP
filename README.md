@@ -59,9 +59,6 @@ Repository ini berisi hasil **Praktikum 1 Mata Kuliah Mobile Programming (MP2025
 
 ---
 
-
----
-
 ## ⚙️ Langkah Praktikum
 
 ### 1️⃣ Persiapan
@@ -113,16 +110,6 @@ Repository ini berisi hasil **Praktikum 1 Mata Kuliah Mobile Programming (MP2025
 
 ### 7️⃣ Pengujian Berhasil
 ![Hasil Uji 7](hasiluji/7.png)
-
----
-
-## 👤 Identitas Mahasiswa
-- **Nama**  : **NOR HAYATI**
-- **NIM**   : **230104040203**
-- **Kelas** : **TI23A**
-- **Mata Kuliah** : **Mobile Programming**
-- **Kode MK** : **MP20251**
-- **Praktikum** : **Praktikum 1**
 
 ---
 
